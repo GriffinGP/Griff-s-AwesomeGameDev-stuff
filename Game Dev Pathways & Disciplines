@@ -1,0 +1,49 @@
+Game Dev Career Pathways - Griffin Hayes
+----------------------------------------
+1: Game Design
+- The process of bulidng the concepts and rules which govern a game.  These include the mechanics, systems, and player experience.  Game designers work on the gameplay, mechanics and systems of a game, and there are many potnetial roles
+designers can take within this pathway.  A few of them include: Accessibility design, AI design, encounter design, level design, combat design, narrative design, UI design, worldbuilding, and many other potential roles.
+
+2: Art
+- Pretty self explanatory; The process of visually designing a game.  Game artists work on elements like the character designs, world designs, art direction/style, texturing and lighting, and collaborate with other game devs to
+ensure that the art compliments the gameplay and experience.  Here are a few roles a game artist can take: 2/3D art, concept art, environment art, level art, shaders, storyboarding, VFX, texturing, weapons/tools designing, among other things.
+
+3: Audio
+- Also fairly self explanatory, game audio designers create and implement the sounds and songs for their games.  They use a variety of tools and techniques to create immersive sound design that matches the gameplay.  Sound design is 
+everywhere in gaming, from dialogue, to music, to ambience, game audio designers are the people who bring those things to life.  A couple roles include: Audio composition/engineering, sound design, voice design, audio programming, and more.
+
+4: User Experience (UX)
+- UX revolves around optimizing player engagement and satisfaction by designin intuitiveand enjoyable game interactions and interfaces.  They focus on studying player behaviors and preferences, making elements like menus, contols
+and feedback systems that are all user-friendly.  They collaborate with artists and designers to ensure that the user-experience is visually appealing and emotionally potent.  A few roles include: Accessiblity, Information architecture,
+UX design, UX strategy, and more.
+
+5: Quality Assurance (QA)
+- QA essentially makes sure that the game is at least on par with professional standards and is free of any bugs/issues.  They play the game repeatedly, testing it's mechanics, levels, graphics, sounds, and every other key aspect 
+to make sure they are of good quality, reporting any bugs, errors, or potential suggestions to the development teams behind making each aspect.  Few roles include:  Accesibility QA, Performance QA, COmpatibility QA, QA analysis. and much more.
+-----------------------------------------
+Game Programming Discipline List - Griffin Hayes
+List of 5 major disciplines relating to the profession of being a game programmer.
+
+1: Game Engines:
+- Game engines are software develpment environments that provide game progrogrammers with the necessary tools and frameworks to help program and build a game.  They may include level editors, 2/3D graphics compatibility, physics engines,
+AI for non-player characters, sound engines, animation engines, and a variety of other features.  Job titles include: Game Engineer, Tools programming
+
+2: Gameplay:
+- Gameplay in game programming is the code that makes up the interactions, sequences, and events that drive the game forward.  This includes but is not limited to: combat, level interactions, movement, dialogue options, choice making, mechanics,
+and many other aspects of game design as a whole.  Job titles include: Gameplay programmer, game designer.
+
+3: UI:
+- UI or User Interface is a key aspect of game programming, as it's something the player will constantly need to interact with.  UI is the interfaces and menus the player uses, as well as all the visual cues and hints to guide the 
+player in the right direction.  These include things like, objective markers, quest logs, maps and landmarks, and more.  Creating good UI is important to an intuitive user experience.  Job Titles include: UI designer/artist,
+UI programmer, UI quality assurance.
+
+4: Build & Release:
+- B&R is a common principle used in software engineering and programming as a whole.  A 'build' is compiled version of a software that is ready for testing or deployment, and a 'release' is the public version of that software,
+typically after all the testing and potential changes and modifications.  In the context of game programming, a build could be a game that's in a playable state, but needs further refinement before being publicly released.  Builds
+can contain bugs, incomplete designs and mechanics, and overall just appear incomplete.  Part of the game programming process is to get from the build state, to the release state.  Job Titles include: Quality Assurance, Software developer,
+DevOps engineer.
+
+5: Physics
+- The physics of games is the set of rules that attempt to imitate or iterate on the physics of the real world.  They are their own part of the engine used to program games, and can heavily differ between each other based on the game
+you're playing.  Physics works with concepts like physics simulation (rigid or softbody), particle physics, ragdoll physics, projectile physics, and many other core rules like that.  Job Titles: Physics programmer/engineer,
+Game designer, game animator/artist.
